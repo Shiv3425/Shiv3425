@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hey, I'm Shibu<br>💻 Full Stack Java Developer<br>Building scalable backends, interactive applications, and practical software solutions.
+👋 Hey, I'm Shiv<br>💻 Full Stack Java Developer<br>Building scalable backends, interactive applications, and practical software solutions.
 
 
 ## 🌐 Socials:
