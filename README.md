@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./profile_animation.gif" width="100%" alt="Shiv - Full Stack Java Developer">
+</div>
+
 # 💫 About Me:
 👋 Hey, I'm Shibu<br>💻 Full Stack Java Developer<br>Building scalable backends, interactive applications, and practical software solutions.
 
